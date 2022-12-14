@@ -1,5 +1,4 @@
 import { DndContext, rectIntersection } from "@dnd-kit/core";
-// import AddCard from "./AddCard";
 import { Box, Flex } from "@chakra-ui/react";
 import { useState } from "react";
 import { TypeCard } from "@app/types/TypeCard";
